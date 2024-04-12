@@ -62,6 +62,7 @@ A curated list of awesome things related to Quill
 - [quill-delta-python](https://github.com/forgeworks/quill-delta-python) - Python implementation of Delta with an optional extension to render HTML
 - [php-quill-renderer](https://github.com/deanblackborough/php-quill-renderer) - Render quill insert deltas to HTML and Markdown
 - [quill-delta-to-html](https://github.com/nozer/quill-delta-to-html) - Converts Quill's delta ops to HTML
+- [quill-delta-to-react](https://github.com/wirechunk/quill-delta-to-react) - Render Quill's Delta ops in React
 - [go-render-quill](https://github.com/dchenk/go-render-quill) - A Go package to render Quill deltas into HTML
 - [quill-render](https://github.com/casetext/quill-render) - Renders quilljs deltas into HTML
 - [quilljs-renderer](https://github.com/UmbraEngineering/quilljs-renderer) - Renders an insert-only Quilljs delta into various format like HTML
